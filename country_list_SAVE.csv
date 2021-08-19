@@ -1,0 +1,242 @@
+rank,link,name,population,percent_of_world
+1,/wiki/Demographics_of_China,China,1407809120,17.9
+2,/wiki/Demographics_of_India,India,1376560090,17.5
+3,/wiki/Demographics_of_the_United_States,United States,331616914,4.22
+4,/wiki/Demographics_of_Indonesia,Indonesia,271350000,3.45
+5,/wiki/Demographics_of_Pakistan,Pakistan,225200000,2.86
+6,/wiki/Demographics_of_Brazil,Brazil,213093087,2.71
+7,/wiki/Demographics_of_Nigeria,Nigeria,211401000,2.69
+8,/wiki/Demographics_of_Bangladesh,Bangladesh,170611068,2.17
+9,/wiki/Demographics_of_Russia,Russia,146171015,1.86
+10,/wiki/Demographics_of_Mexico,Mexico,126014024,1.60
+11,/wiki/Demographics_of_Japan,Japan,125410000,1.59
+12,/wiki/Demographics_of_Ethiopia,Ethiopia,117876000,1.50
+13,/wiki/Demographics_of_Philippines,Philippines,110180504,1.40
+14,/wiki/Demographics_of_Egypt,Egypt,101828736,1.29
+15,/wiki/Demographics_of_Vietnam,Vietnam,97580000,1.24
+16,/wiki/Demographics_of_Democratic_Republic_of_the_Congo,DR Congo,92378000,1.17
+17,/wiki/Demographics_of_Iran,Iran,84416887,1.07
+18,/wiki/Demographics_of_Turkey,Turkey,83614362,1.06
+19,/wiki/Demographics_of_Germany,Germany,83190556,1.06
+20,/wiki/Demographics_of_France,France,67406000,0.857
+21,/wiki/Demographics_of_United_Kingdom,United Kingdom,66796807,0.849
+22,/wiki/Demographics_of_Thailand,Thailand,66642830,0.847
+23,/wiki/Demographics_of_South_Africa,South Africa,59622350,0.758
+24,/wiki/Demographics_of_Tanzania,Tanzania,59441988,0.756
+25,/wiki/Demographics_of_Italy,Italy,59226539,0.753
+26,/wiki/Demographics_of_Myanmar,Myanmar,55294979,0.703
+27,/wiki/Demographics_of_South_Korea,South Korea,51702100,0.657
+28,/wiki/Demographics_of_Colombia,Colombia,51049498,0.649
+29,/wiki/Demographics_of_Kenya,Kenya,47564296,0.605
+30,/wiki/Demographics_of_Spain,Spain,47351567,0.602
+31,/wiki/Demographics_of_Argentina,Argentina,45808747,0.582
+32,/wiki/Demographics_of_Algeria,Algeria,44700000,0.568
+33,/wiki/Demographics_of_Sudan,Sudan,43441870,0.552
+34,/wiki/Demographics_of_Uganda,Uganda,42885900,0.545
+35,/wiki/Demographics_of_Ukraine,Ukraine,41527205,0.528
+36,/wiki/Demographics_of_Iraq,Iraq,41190700,0.524
+37,/wiki/Population_of_Canada,Canada,38444634,0.489
+38,/wiki/Demographics_of_Poland,Poland,38230000,0.486
+39,/wiki/Demographics_of_Morocco,Morocco,36240494,0.461
+40,/wiki/Demographics_of_Uzbekistan,Uzbekistan,34843661,0.443
+41,/wiki/Demographics_of_Saudi_Arabia,Saudi Arabia,34218169,0.435
+42,/wiki/Demographics_of_Peru,Peru,33035304,0.420
+43,/wiki/Demographics_of_Afghanistan,Afghanistan,32890171,0.418
+44,/wiki/Demographics_of_Malaysia,Malaysia,32771260,0.417
+45,/wiki/Demographics_of_Angola,Angola,32097671,0.408
+46,/wiki/Demographics_of_Ghana,Ghana,30955202,0.394
+47,/wiki/Demographics_of_Mozambique,Mozambique,30832244,0.392
+48,/wiki/Demographics_of_Yemen,Yemen,30491000,0.388
+49,/wiki/Demographics_of_Nepal,Nepal,30378055,0.386
+50,/wiki/Demographics_of_Venezuela,Venezuela,28705000,0.365
+51,/wiki/Demographics_of_Ivory_Coast,Ivory Coast,27087732,0.344
+52,/wiki/Demographics_of_Madagascar,Madagascar,26923353,0.342
+53,/wiki/Demographics_of_Australia,Australia,25791873,0.328
+54,/wiki/Demographics_of_North_Korea,North Korea,25660000,0.326
+55,/wiki/Demographics_of_Cameroon,Cameroon,24348251,0.310
+56,/wiki/Demographics_of_Niger,Niger,24112753,0.307
+–,/wiki/Demographics_of_Taiwan,Taiwan,23525623,0.299
+57,/wiki/Demographics_of_Sri_Lanka,Sri Lanka,21919000,0.279
+58,/wiki/Demographics_of_Burkina_Faso,Burkina Faso,21510181,0.273
+59,/wiki/Demographics_of_Mali,Mali,20856000,0.265
+60,/wiki/Demographics_of_Chile,Chile,19678363,0.250
+61,/wiki/Demographics_of_Romania,Romania,19317984,0.246
+62,/wiki/Demographics_of_Kazakhstan,Kazakhstan,18919640,0.241
+63,/wiki/Demographics_of_Malawi,Malawi,18898441,0.240
+64,/wiki/Demographics_of_Zambia,Zambia,18400556,0.234
+65,/wiki/Demographics_of_Syria,Syria,18276000,0.232
+66,/wiki/Demographics_of_Ecuador,Ecuador,17725772,0.225
+67,/wiki/Demographics_of_Netherlands,Netherlands,17590331,0.224
+68,/wiki/Demographics_of_Senegal,Senegal,17223497,0.219
+69,/wiki/Demographics_of_Guatemala,Guatemala,17109746,0.218
+70,/wiki/Demographics_of_Chad,Chad,16818391,0.214
+71,/wiki/Demographics_of_Somalia,Somalia,16360000,0.208
+72,/wiki/Demographics_of_Zimbabwe,Zimbabwe,15790716,0.201
+73,/wiki/Demographics_of_Cambodia,Cambodia,15552211,0.198
+74,/wiki/Demographics_of_South_Sudan,South Sudan,13249924,0.168
+75,/wiki/Demographics_of_Rwanda,Rwanda,12955768,0.165
+76,/wiki/Demographics_of_Guinea,Guinea,12907395,0.164
+77,/wiki/Demographics_of_Burundi,Burundi,12574571,0.160
+78,/wiki/Demographics_of_Benin,Benin,12506347,0.159
+79,/wiki/Demographics_of_Bolivia,Bolivia,11797257,0.150
+80,/wiki/Demographics_of_Tunisia,Tunisia,11746695,0.149
+81,/wiki/Demographics_of_Haiti,Haiti,11743017,0.149
+82,/wiki/Demographics_of_Belgium,Belgium,11560220,0.147
+83,/wiki/Demographics_of_Cuba,Cuba,11193470,0.142
+84,/wiki/Demographics_of_Jordan,Jordan,10937548,0.139
+85,/wiki/Demographics_of_Greece,Greece,10718565,0.136
+86,/wiki/Demographics_of_Czech_Republic,Czech Republic,10701777,0.136
+87,/wiki/Demographics_of_Dominican_Republic,Dominican Republic,10535535,0.134
+88,/wiki/Demographics_of_Sweden,Sweden,10385347,0.132
+89,/wiki/Demographics_of_Portugal,Portugal,10295909,0.131
+90,/wiki/Demographics_of_Azerbaijan,Azerbaijan,10122148,0.129
+91,/wiki/Demographics_of_Hungary,Hungary,9730000,0.124
+92,/wiki/Demographics_of_United_Arab_Emirates,United Arab Emirates,9503738,0.121
+93,/wiki/Demographics_of_Honduras,Honduras,9450711,0.120
+94,/wiki/Demographics_of_Belarus,Belarus,9349645,0.119
+95,/wiki/Demographics_of_Israel,Israel,9341055,0.119
+96,/wiki/Demographics_of_Tajikistan,Tajikistan,9313800,0.118
+97,/wiki/Demographics_of_Papua_New_Guinea,Papua New Guinea,9122994,0.116
+98,/wiki/Demographics_of_Austria,Austria,8933346,0.114
+99,/wiki/Demographics_of_Switzerland,Switzerland,8667100,0.110
+100,/wiki/Demographics_of_Sierra_Leone,Sierra Leone,8297882,0.105
+101,/wiki/Demographics_of_Togo,Togo,7886000,0.100
+–,/wiki/Demographics_of_Hong_Kong,Hong Kong,7474200,0.0950
+102,/wiki/Demographics_of_Paraguay,Paraguay,7353038,0.0935
+103,/wiki/Demographics_of_Laos,Laos,7337783,0.0933
+104,/wiki/Demographics_of_Libya,Libya,6959000,0.0885
+105,/wiki/Demographics_of_Serbia,Serbia,6926705,0.0881
+106,/wiki/Demographics_of_Bulgaria,Bulgaria,6916548,0.0879
+107,/wiki/Demographics_of_El_Salvador,El Salvador,6825935,0.0868
+108,/wiki/Demographics_of_Lebanon,Lebanon,6769000,0.0861
+109,/wiki/Demographics_of_Kyrgyzstan,Kyrgyzstan,6653600,0.0846
+110,/wiki/Demographics_of_Nicaragua,Nicaragua,6595674,0.0839
+111,/wiki/Demographics_of_Turkmenistan,Turkmenistan,6118000,0.0778
+112,/wiki/Demographics_of_Denmark,Denmark,5840045,0.0742
+113,/wiki/Demographics_of_Singapore,Singapore,5685807,0.0723
+114,/wiki/Demographics_of_Republic_of_the_Congo,Congo,5657000,0.0719
+115,/wiki/Demographics_of_Central_African_Republic,Central African Republic,5633412,0.0716
+116,/wiki/Demographics_of_Finland,Finland,5506915,0.0700
+117,/wiki/Demographics_of_Slovakia,Slovakia,5459781,0.0694
+118,/wiki/Demographics_of_Norway,Norway,5391369,0.0685
+119,/wiki/Demographics_of_Palestine,,5227193,0.0665
+120,/wiki/Demographics_of_Costa_Rica,Costa Rica,5163038,0.0656
+121,/wiki/Demographics_of_New_Zealand,New Zealand,5127110,0.0652
+122,/wiki/Demographics_of_the_Republic_of_Ireland,Ireland,4977400,0.0633
+123,/wiki/Demographics_of_Liberia,Liberia,4661010,0.0593
+124,/wiki/Demographics_of_Oman,Oman,4507323,0.0573
+125,/wiki/Demographics_of_Kuwait,Kuwait,4464521,0.0568
+126,/wiki/Demographics_of_Panama,Panama,4278500,0.0544
+127,/wiki/Demographics_of_Mauritania,Mauritania,4271197,0.0543
+128,/wiki/Demographics_of_Croatia,Croatia,4047200,0.0515
+129,/wiki/Demographics_of_Georgia_(country),Georgia,3716858,0.0473
+130,/wiki/Demographics_of_Eritrea,Eritrea,3601000,0.0458
+131,/wiki/Demographics_of_Uruguay,Uruguay,3554915,0.0452
+132,/wiki/Demographics_of_Mongolia,Mongolia,3375823,0.0429
+133,/wiki/Demographics_of_Bosnia_and_Herzegovina,Bosnia and Herzegovina,3332593,0.0424
+–,/wiki/Demographics_of_Puerto_Rico,Puerto Rico,3285874,0.0418
+134,/wiki/Demographics_of_Armenia,Armenia,2967900,0.0377
+135,/wiki/Demographics_of_Albania,Albania,2845955,0.0362
+136,/wiki/Demographics_of_Lithuania,Lithuania,2787658,0.0354
+137,/wiki/Demographics_of_Jamaica,Jamaica,2734093,0.0348
+138,/wiki/Demographics_of_Qatar,Qatar,2642112,0.0336
+139,/wiki/Demographics_of_Moldova,Moldova,2640438,0.0336
+140,/wiki/Demographics_of_Namibia,Namibia,2550226,0.0324
+141,/wiki/Demographics_of_Botswana,Botswana,2410338,0.0306
+142,/wiki/Demographics_of_The_Gambia,Gambia,2335504,0.0297
+143,/wiki/Demographics_of_Gabon,Gabon,2233272,0.0284
+144,/wiki/Demographics_of_Slovenia,Slovenia,2108977,0.0268
+145,/wiki/Demographics_of_North_Macedonia,North Macedonia,2076255,0.0264
+146,/wiki/Demographics_of_Lesotho,Lesotho,2007201,0.0255
+147,/wiki/Demographics_of_Latvia,Latvia,1889000,0.0240
+–,/wiki/Demographics_of_Kosovo,Kosovo,1782115,0.0227
+148,/wiki/Demographics_of_Guinea-Bissau,Guinea-Bissau,1646077,0.0209
+149,/wiki/Demographics_of_Equatorial_Guinea,Equatorial Guinea,1505588,0.0191
+150,/wiki/Demographics_of_Bahrain,Bahrain,1501635,0.0191
+151,/wiki/Demographics_of_Trinidad_and_Tobago,Trinidad and Tobago,1366725,0.0174
+152,/wiki/Demographics_of_Estonia,Estonia,1329460,0.0169
+153,/wiki/Demographics_of_East_Timor,East Timor,1317780,0.0168
+154,/wiki/Demographics_of_Mauritius,Mauritius,1266030,0.0161
+155,/wiki/Demographics_of_Eswatini,Eswatini,1093238,0.0139
+156,/wiki/Demographics_of_Djibouti,Djibouti,976107,0.0124
+157,/wiki/Demographics_of_Fiji,Fiji,898402,0.0114
+158,/wiki/Demographics_of_Cyprus,Cyprus,888005,0.0113
+159,/wiki/Demographics_of_Comoros,Comoros,758316,0.00964
+160,/wiki/Demographics_of_Bhutan,Bhutan,756129,0.00961
+161,/wiki/Demographics_of_Guyana,Guyana,743699,0.00945
+162,/wiki/Demographics_of_Solomon_Islands,Solomon Islands,728041,0.00926
+–,/wiki/Demographics_of_Macau,Macau,683100,0.00868
+163,/wiki/Demographics_of_Luxembourg,Luxembourg,634730,0.00807
+164,/wiki/Demographics_of_Montenegro,Montenegro,621873,0.00791
+–,/wiki/Demographics_of_Western_Sahara,Western Sahara,612000,0.00778
+165,/wiki/Demographics_of_Suriname,Suriname,590100,0.00750
+166,/wiki/Demographics_of_Cape_Verde,Cape Verde,563198,0.00716
+167,/wiki/Demographics_of_Malta,Malta,514564,0.00654
+–,/wiki/Demographics_of_Transnistria,Transnistria,469000,0.00596
+168,/wiki/Demographics_of_Brunei,Brunei,453600,0.00577
+169,/wiki/Demographics_of_Belize,Belize,419199,0.00533
+170,/wiki/Demographics_of_The_Bahamas,Bahamas,393450,0.00500
+171,/wiki/Demographics_of_Maldives,Maldives,383135,0.00487
+–,/wiki/Demographics_of_Northern_Cyprus,Northern Cyprus,372486,0.00474
+172,/wiki/Demographics_of_Iceland,Iceland,369870,0.00470
+173,/wiki/Demographics_of_Vanuatu,Vanuatu,301295,0.00383
+174,/wiki/Demographics_of_Barbados,Barbados,288000,0.00366
+–,/wiki/Demographics_of_French_Polynesia,French Polynesia,279890,0.00356
+–,/wiki/Demographics_of_New_Caledonia,New Caledonia,273674,0.00348
+–,/wiki/Demographics_of_Abkhazia,Abkhazia,245424,0.00312
+175,/wiki/Demographics_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe,São Tomé and Príncipe,214610,0.00273
+176,/wiki/Demographics_of_Samoa,Samoa,199853,0.00254
+177,/wiki/Demographics_of_Saint_Lucia,Saint Lucia,178696,0.00227
+–,/wiki/Demographics_of_Guam,Guam,178306,0.00227
+–,/wiki/Demographics_of_Cura%C3%A7ao,Curaçao,156223,0.00199
+–,/wiki/Republic_of_Artsakh,Republic of Artsakh,148800,0.00189
+178,/wiki/Demographics_of_Kiribati,Kiribati,120740,0.00154
+179,/wiki/Demographics_of_Grenada,Grenada,113000,0.00144
+–,/wiki/Demographics_of_Aruba,Aruba,111904,0.00142
+180,/wiki/Demographics_of_Saint_Vincent_and_the_Grenadines,Saint Vincent and the Grenadines,110696,0.00141
+–,/wiki/Demographics_of_Jersey,Jersey,107800,0.00137
+181,/wiki/Demographics_of_Federated_States_of_Micronesia,F.S. Micronesia,105754,0.00134
+–,/wiki/Demographics_of_United_States_Virgin_Islands,U.S. Virgin Islands,104000,0.00132
+182,/wiki/Demographics_of_Tonga,Tonga,99532,0.00127
+183,/wiki/Demographics_of_Antigua_and_Barbuda,Antigua and Barbuda,99337,0.00126
+184,/wiki/Demographics_of_Seychelles,Seychelles,98963,0.00126
+–,/wiki/Demographics_of_Isle_of_Man,Isle of Man,83314,0.00106
+185,/wiki/Demographics_of_Andorra,Andorra,78015,0.000992
+186,/wiki/Demographics_of_Dominica,Dominica,72000,0.000915
+–,/wiki/Demographics_of_the_Cayman_Islands,Cayman Islands,65786,0.000836
+–,/wiki/Demographics_of_Bermuda,Bermuda,64055,0.000814
+–,/wiki/Demographics_of_Guernsey,Guernsey,63155,0.000803
+–,/wiki/Demographics_of_American_Samoa,American Samoa,56951,0.000724
+–,/wiki/Demographics_of_the_Northern_Mariana_Islands,Northern Mariana Islands,56801,0.000722
+–,/wiki/Demographics_of_Greenland,Greenland,56421,0.000717
+187,/wiki/Demographics_of_Marshall_Islands,Marshall Islands,54516,0.000693
+188,/wiki/Demographics_of_Saint_Kitts_and_Nevis,Saint Kitts and Nevis,54000,0.000687
+–,/wiki/Demographics_of_South_Ossetia,South Ossetia,53532,0.000681
+–,/wiki/Demographics_of_Faroe_Islands,Faroe Islands,53108,0.000675
+–,/wiki/Demographics_of_Turks_and_Caicos_Islands,Turks and Caicos Islands,42953,0.000546
+–,/wiki/Demographics_of_Sint_Maarten,Sint Maarten,40614,0.000516
+189,/wiki/Demographics_of_Liechtenstein,Liechtenstein,39062,0.000497
+190,/wiki/Demographics_of_Monaco,Monaco,38350,0.000488
+–,/wiki/Collectivity_of_Saint_Martin,,34065,0.000433
+–,/wiki/Demographics_of_Gibraltar,Gibraltar,34003,0.000432
+191,/wiki/Demographics_of_San_Marino,San Marino,33604,0.000427
+–,/wiki/%C3%85land_Islands,Åland Islands,30201,0.000384
+–,/wiki/Demographics_of_the_British_Virgin_Islands,British Virgin Islands,30000,0.000381
+192,/wiki/Demographics_of_Palau,Palau,17957,0.000228
+–,/wiki/Demographics_of_Cook_Islands,Cook Islands,15342,0.000195
+–,/wiki/Demographics_of_Anguilla,Anguilla,15000,0.000191
+193,/wiki/Demographics_of_Nauru,Nauru,11832,0.000150
+–,/wiki/Demographics_of_Wallis_and_Futuna,Wallis and Futuna,11369,0.000145
+194,/wiki/Demographics_of_Tuvalu,Tuvalu,10679,0.000136
+–,/wiki/Demographics_of_Saint_Barth%C3%A9lemy,Saint Barthélemy,10124,0.000129
+–,/wiki/Demographics_of_Saint_Pierre_and_Miquelon,Saint Pierre and Miquelon,5985,0
+–,"/wiki/Demographics_of_Saint_Helena,_Ascension_and_Tristan_da_Cunha","Saint Helena, Ascensionand Tristan da Cunha",5633,0
+–,/wiki/Demographics_of_Montserrat,Montserrat,5000,0
+–,/wiki/Demographics_of_Falkland_Islands,Falkland Islands,3398,0
+–,/wiki/Demographics_of_Christmas_Island,Christmas Island,1966,00
+–,/wiki/Demographics_of_Norfolk_Island,Norfolk Island,1734,00
+–,/wiki/Demographics_of_Niue,Niue,1549,0
+–,/wiki/Demographics_of_Tokelau,Tokelau,1501,0
+195,/wiki/Demographics_of_Vatican_City,Vatican City,825,0
+–,/wiki/Demographics_of_Cocos_(Keeling)_Islands,Cocos (Keeling) Islands,573,0
+–,/wiki/Demographics_of_Pitcairn_Islands,Pitcairn Islands,40,0
