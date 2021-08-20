@@ -9,7 +9,7 @@ You can better view the Jupyter notebook [here](https://jovian.ai/samantha-rober
 3. to read the csv file back in as a dataframe and scrape each of the links to the individual country page for important demographic information such as population, life expectancy, density, birth rate, death rate, etc.  
 4. To then store these country demographics in a CSV file.  
 
-As of today's date, August of 2021, Wikipedia contains 51 GB of XML data.  Some of these pages are organized by suggestions in WikiProjects.  this   In particular, it has pages on countries and their demographics.  The goal of this project was to go to one web page that had a table with all the countries in the world ranked by population, and 
+
 
 
 
